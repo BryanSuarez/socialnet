@@ -23,8 +23,14 @@
             </div>
 
             <div class="panel panel-default">
+                <div class="panel-body">
+                    <friend :profile_user_id="{{ $user->id }}"></friend>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
                 <div class="panel-heading text-center">
-                   <strong>Sobre mí</strong>
+                   <strong>Sobre mí vamos por el cap18</strong>
                 </div>
                 <div class="panel-body text-center">
                     <p class="text-center">
